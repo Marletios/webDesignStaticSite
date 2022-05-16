@@ -53,6 +53,10 @@ p {
   font-size: 1.3rem;
 padding-right: 20px;
 }
+.footer-link:hover {
+  background-color: #F7DBF0;
+}
+
 
 .top-container {
 position:relative;
