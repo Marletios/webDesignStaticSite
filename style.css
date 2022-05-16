@@ -149,11 +149,18 @@ padding-bottom: 1px;
 }
 
 .button {
-  color: #EAF6F6;
-  background-color: #66BFBF;
-  padding: 12px 28px;
-  font-size: 20px;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
   border-radius: 8px;
-  box-shadow: 0 8px 16px 0;
-  border: none;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 31px;
+  background: #66BFBF;
+  padding: 13px 23px 13px 23px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #CCF3EE;
+  text-decoration: none;
 }
