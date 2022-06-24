@@ -1,1 +1,1 @@
-# webDesign Static site. This is my first static site using intermediate CSS and HTML5. 
+# webDesign Static site. This is my first static site using intermediate CSS and HTML5. The focus with the CSS was to create a beautiful and simple site that showed clear intent in the use of negative space and harmonious color palette. 
